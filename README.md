@@ -3,7 +3,7 @@
 This project involves converting an existing React dynamic TODO list to use Redux for state management. The main goal is to implement a Redux store that manages the state of TODOs, filters, and queries. The app will load TODO items on page load, with state changes for filtering by completion status and title search. It is designed to function identically to the original version but with Redux for managing state and ensuring scalability.
 
 ## Demo
-You can view the final product and explore it here: [Demo Link]()
+You can view the final product and explore it here: [Demo Link](https://taniabarkovskya.github.io/todo-list-redux/)
 
 ## Technologies
 - React
